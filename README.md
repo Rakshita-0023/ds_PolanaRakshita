@@ -51,5 +51,20 @@ ds_PolanaRakshita/ ├── notebook_1.ipynb # Main analysis notebook (Google
 
 Optional Dashboard
 An optional Streamlit dashboard (app.py) is included for interactive exploration of trader behavior across Fear and Greed sentiment regimes.
+
+## Data Access
+
+Due to GitHub file size limits, large CSV files are not included in this repository.
+
+The datasets used in this analysis can be accessed from the original sources:
+
+- Historical Trader Data (Hyperliquid):  
+  https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
+- Bitcoin Fear & Greed Index:  
+  https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+
+All data preprocessing steps are fully reproducible using the provided notebook.
+
 Author
 Rakshita Polana
