@@ -22,6 +22,10 @@ https://colab.research.google.com/drive/1Rqz4jMUB2SQiAhNk6A0U6EXrIlBnsmQO?usp=sh
 
 2. **Historical Trader Data (Hyperliquid)**
    - Trade-level data including trade size, position direction, timestamps, and closed PnL.
+   
+**Note: Raw CSV datasets are not included in this repository due to size constraints. 
+Original datasets are accessed via the official links provided in the assignment instructions.**
+
 
 ## Methodology
 - Cleaned and standardised both datasets.
